@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>EDUCACION</title>
+</head>
+
+<body>
+<header>
+		<h1>EXPERIENCIA</h1>
+		
+		<ul>
+			<li><a href="">EDUCACION</a></li>
+			<li><a href="">EXPERIENCIA</a></li>
+		</ul>
+		<p>pagina de experiencia ""JAVIER HIDALGO""</p>
+
+</header>
+
+
+</body>
+</html>
